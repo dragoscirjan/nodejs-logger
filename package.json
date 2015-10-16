@@ -1,0 +1,43 @@
+{
+  "name": "dc-logger",
+  "version": "0.0.1",
+  "description": "Config Manager Tool",
+  "main": "logger.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dragoscirjan/nodejs-logger.git"
+  },
+  "keywords": [
+    "pomises",
+    "events"
+  ],
+  "author": {
+    "name": "Dragos Cirjan",
+    "email": "dragos.cirjan@gmail.com",
+    "url": "https://github.com/dragoscirjan"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/dragoscirjan/nodejs-logger/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/dragoscirjan/nodejs-logger/issues"
+  },
+  "dependencies": {
+    "extend": "*",
+    "log": "*"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "*"
+  },
+  "readme": "# DC Config\n",
+  "readmeFilename": "README.md",
+  "_id": "dc-logger@0.0.1",
+  "dist": {
+    "shasum": "ed89fe8d1058f22bb678b5defd8e3a35de5bf90f"
+  },
+  "_from": "dc-logger@0.0.1",
+  "_resolved": "https://registry.npmjs.org/dc-logger/-/dc-logger-0.0.1.tgz"
+}
